@@ -1,5 +1,5 @@
 {
-  "name": "nodejs.org",
+  "name": "nodejs.org-werrus",
   "version": "1.0.0",
   "description": "Nodejs.org website",
   "homepage": "https://nodejs.org",
@@ -21,7 +21,7 @@
     "test:html": "node scripts/vnu-jar.js",
     "test:unit": "tape \"tests/**/*.test.js\""
   },
-  "repository": "nodejs/nodejs.org",
+  "repository": "werruse/nodejs.org",
   "keywords": [],
   "author": "Node.js Website Working Group",
   "license": "MIT",
